@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "660837165922",
+    "project_id": "agrifarm-b8894",
+    "storage_bucket": "agrifarm-b8894.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660837165922:android:210c0704ee7a4594f31a3b",
+        "android_client_info": {
+          "package_name": "com.example.agrifarm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-KS0wjElUcQV9ZOIWcAIe70YrwyLR6c8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
